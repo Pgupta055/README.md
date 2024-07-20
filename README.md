@@ -20,8 +20,8 @@
 
 <h3 align="left"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Connect with me:</h3>
 <p align="right">
-<a href="www.linkedin.com/in/priyanshu-gupta-b2247026b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjul-gupta-384415164" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anjulgupta125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjulgupta125" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-gupta-b2247026b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjul-gupta-384415164" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/p_gupta55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjulgupta125" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
